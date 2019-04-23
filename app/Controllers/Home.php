@@ -9,9 +9,6 @@ class Home extends Controller
     {
         $this->load->service('demo');
         $data = $this->Demo->test();
-        $res->json($data);
-        // $res->view('HelloWord');
-
-        $res->download($req->path . 'index.php');
+        $res->view('HelloWord');
     }
 }

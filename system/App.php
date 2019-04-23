@@ -3,7 +3,7 @@ namespace Namecho;
 
 use \Namecho\Framework\Http\Request;
 use \Namecho\Framework\Http\Response;
-use \Namecho\Framework\Http\Router;
+use \Namecho\Framework\Library\Router;
 
 class App
 {

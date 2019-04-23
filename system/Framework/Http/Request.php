@@ -1,7 +1,7 @@
 <?php
 namespace Namecho\Framework\Http;
 
-use \Namecho\Framework\Http\Router;
+use \Namecho\Framework\Library\Router;
 
 class Request
 {

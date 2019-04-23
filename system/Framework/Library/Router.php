@@ -1,5 +1,5 @@
 <?php
-namespace Namecho\Framework\Http;
+namespace Namecho\Framework\Library;
 
 class Router
 {
